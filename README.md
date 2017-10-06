@@ -50,6 +50,7 @@ Mechanics
 ---------
 - **Kinematics**
   + [Frame of reference](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/ReferenceFrame.ipynb)
+  + [Time varying frame of reference](http://nbviewer.jupyter.org/github/rnwatanabe/BMC/blob/master/notebooks/Time-varying%20frames.ipynb)
   + [Kinematics of particle](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/KinematicsParticle.ipynb)   
     - [Projectile motion](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/ProjectileMotion.ipynb) 
     - [Spatial and temporal characteristics](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/SpatialTemporalCharacteristcs.ipynb)  
